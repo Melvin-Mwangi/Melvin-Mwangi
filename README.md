@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melvin Mwangi</h1>
 <h3 align="center">A software developer and a passionate Information Technology Student</h3>
 
-- 🌱 I’m currently learning **Livewire,Alpine.js,FilamentPHP, Inertia.js - using either Vue and React**
+- 🌱 I’m currently learning **MongoDB,next.js, Inertia.js**
 
 - 📫 How to reach me **m.melvinmwangi@gmail.com**
 
